@@ -3,7 +3,7 @@
 [![DataGrip](https://img.shields.io/badge/-DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)](https://www.jetbrains.com/datagrip/)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 [![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)]()
-[![hh](https://img.shields.io/badge/-HeadHunter-FF6C00?style=for-the-badge&logo=headhunter&logoColor=white)](https://hh.ru/)
+[![hh](https://img.shields.io/badge/-hh-FF6C00?style=for-the-badge&logo=headhunter&logoColor=white)](https://hh.ru/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.org/)
