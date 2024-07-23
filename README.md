@@ -39,3 +39,8 @@
 [![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)]()
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
 [![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/)
+[![OOP](https://img.shields.io/badge/-OOP-000000?style=for-the-badge&logo=objectoriented&logoColor=white)](https://en.wikipedia.org/wiki/Object-oriented_programming)
+[![SOLID](https://img.shields.io/badge/-SOLID-000000?style=for-the-badge&logo=solid&logoColor=white)](https://en.wikipedia.org/wiki/SOLID)
+[![KISS](https://img.shields.io/badge/-KISS-000000?style=for-the-badge&logo=kiss&logoColor=white)](https://en.wikipedia.org/wiki/KISS_principle)
+[![DRY](https://img.shields.io/badge/-DRY-000000?style=for-the-badge&logo=dry&logoColor=white)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+[![DataGrip](https://img.shields.io/badge/-DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)](https://www.jetbrains.com/datagrip/)
