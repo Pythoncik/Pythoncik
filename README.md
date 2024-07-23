@@ -1,6 +1,7 @@
 ### Инструменты которые я использовал/использую
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 [![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)]()
+[![DataGrip](https://img.shields.io/badge/-DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)](https://www.jetbrains.com/datagrip/)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 [![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)]()
 [![SQLite Studio](https://img.shields.io/badge/-SQLite%20Studio-003B57?style=for-the-badge&logo=sqlite&logoColor=white)]()
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)]()
@@ -43,4 +44,3 @@
 [![SOLID](https://img.shields.io/badge/-SOLID-000000?style=for-the-badge&logo=solid&logoColor=white)](https://en.wikipedia.org/wiki/SOLID)
 [![KISS](https://img.shields.io/badge/-KISS-000000?style=for-the-badge&logo=kiss&logoColor=white)](https://en.wikipedia.org/wiki/KISS_principle)
 [![DRY](https://img.shields.io/badge/-DRY-000000?style=for-the-badge&logo=dry&logoColor=white)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
-[![DataGrip](https://img.shields.io/badge/-DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)](https://www.jetbrains.com/datagrip/)
