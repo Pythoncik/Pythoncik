@@ -11,6 +11,7 @@
 [![WSL](https://img.shields.io/badge/-WSL-4EAA25?style=for-the-badge&logo=wsl&logoColor=white)]()
 [![Google](https://img.shields.io/badge/-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.google.com/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/)
+[![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.google.com/chrome/)
 [![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/)
 [![Habr](https://img.shields.io/badge/-Habr-65A2E1?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
