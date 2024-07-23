@@ -1,5 +1,5 @@
 ### Инструменты которые я использовал/использую
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)]()
 [![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)]()
 [![SQLite Studio](https://img.shields.io/badge/-SQLite%20Studio-003B57?style=for-the-badge&logo=sqlite&logoColor=white)]()
