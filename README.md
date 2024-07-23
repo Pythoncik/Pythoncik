@@ -1,5 +1,5 @@
 ### Инструменты которые я использовал/использую
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 [![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)]()
 [![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)]()
 [![SQLite Studio](https://img.shields.io/badge/-SQLite%20Studio-003B57?style=for-the-badge&logo=sqlite&logoColor=white)]()
@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 [![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)]()
 [![GitFlow](https://img.shields.io/badge/-GitFlow-009682?style=for-the-badge&logo=gitflow&logoColor=white)]()
-![Terminal](https://img.shields.io/badge/Terminal-000000?logo=terminal&logoColor=white)
+[![Terminal](https://img.shields.io/badge/-Terminal-000000?style=for-the-badge&logo=windowsterminal&logoColor=white)]()
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![WSL](https://img.shields.io/badge/-WSL-4EAA25?style=for-the-badge&logo=wsl&logoColor=white)]()
