@@ -12,8 +12,7 @@
 [![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)]()
 [![GitFlow](https://img.shields.io/badge/-GitFlow-009682?style=for-the-badge&logo=gitflow&logoColor=white)]()
 [![Terminal](https://img.shields.io/badge/-Terminal-000000?style=for-the-badge&logo=windowsterminal&logoColor=white)]()
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
-
+[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![WSL](https://img.shields.io/badge/-WSL-4EAA25?style=for-the-badge&logo=wsl&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
