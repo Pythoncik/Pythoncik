@@ -19,7 +19,7 @@
 [![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
-[![DRF](https://img.shields.io/badge/-DRF-092E20?style=for-the-badge&logo=django-rest-framework&logoColor=white)]()
+[![Django Rest Framework](https://img.shields.io/badge/-Django%20Rest%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)]()
 [![SQLite Studio](https://img.shields.io/badge/-SQLite%20Studio-003B57?style=for-the-badge&logo=sqlite&logoColor=white)]()
