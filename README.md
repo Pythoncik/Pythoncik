@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.org/)
-### Операционная система
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![WSL](https://img.shields.io/badge/-WSL-4EAA25?style=for-the-badge&logo=wsl&logoColor=white)]()
 [![Google](https://img.shields.io/badge/-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.google.com/)
